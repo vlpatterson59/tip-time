@@ -17,7 +17,7 @@
 
 ## Future Modifications and Enhancements
 
--[ ]
+-[ ] Tighten up code by removing unnecessary variables and moving redundant code to helper functions
 
 ## References and Resources
 
@@ -29,4 +29,4 @@
 
 * [View Binding](https://developer.android.com/topic/libraries/view-binding)
 
-* [Write and View Logs with Logcat]()
+* [Write and View Logs with Logcat](https://developer.android.com/studio/debug/am-logcat)
