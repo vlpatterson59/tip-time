@@ -25,4 +25,8 @@
 
 * [numeric data types in Kotlin](https://kotlinlang.org/docs/basic-types.html#numbers)
 
+* [toDouble](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.text/to-double.html)
+
 * [View Binding](https://developer.android.com/topic/libraries/view-binding)
+
+* [Write and View Logs with Logcat]()
