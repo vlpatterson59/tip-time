@@ -17,7 +17,7 @@
 
 ## Future Modifications and Enhancements
 
--[ ] Tighten up code by removing unnecessary variables and moving redundant code to helper functions
+- [ ] Tighten up code by removing unnecessary variables and moving redundant code to helper functions
 
 ## References and Resources
 
