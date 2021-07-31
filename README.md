@@ -21,4 +21,8 @@
 
 ## References and Resources
 
+* [NumberFormat](https://developer.android.com/reference/java/text/NumberFormat)
+
+* [numeric data types in Kotlin](https://kotlinlang.org/docs/basic-types.html#numbers)
+
 * [View Binding](https://developer.android.com/topic/libraries/view-binding)
