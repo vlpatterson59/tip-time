@@ -21,12 +21,20 @@
 
 ## References and Resources
 
+### Android
+
+* [Gravity](https://developer.android.com/reference/android/view/Gravity)
 * [NumberFormat](https://developer.android.com/reference/java/text/NumberFormat)
+* [View Binding](https://developer.android.com/topic/libraries/view-binding)
+* [Write and View Logs with Logcat](https://developer.android.com/studio/debug/am-logcat)
+
+### Kotlin
 
 * [numeric data types in Kotlin](https://kotlinlang.org/docs/basic-types.html#numbers)
-
 * [toDouble](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.text/to-double.html)
 
-* [View Binding](https://developer.android.com/topic/libraries/view-binding)
+### Material Design
 
-* [Write and View Logs with Logcat](https://developer.android.com/studio/debug/am-logcat)
+* [Typography Theming](https://material.io/develop/android/theming/typography)
+
+### Miscellaneous
